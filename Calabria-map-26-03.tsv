@@ -1,0 +1,6 @@
+data	stato	codice_regione	denominazione_regione	codice_provincia	denominazione_provincia	sigla_provincia	lat	long	totale_casi	note_it	note_en	
+2020-03-26T17:00:00	ITA	18	Calabria	79	Catanzaro	CZ	38.90597598	16.59440194	53			
+2020-03-26T17:00:00	ITA	18	Calabria	78	Cosenza	CS	39.29308681	16.25609692	107			
+2020-03-26T17:00:00	ITA	18	Calabria	101	Crotone	KR	39.08036878	17.12538864	80			
+2020-03-26T17:00:00	ITA	18	Calabria	80	Reggio di Calabria	RC	38.10922769	15.6434527	123			
+2020-03-26T17:00:00	ITA	18	Calabria	102	Vibo Valentia	VV	38.67624147	16.10157414	28			
